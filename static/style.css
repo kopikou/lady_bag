@@ -1,0 +1,57 @@
+p {
+    text-indent: 25px;
+    font-size: large;
+}
+
+.names_of_herues {
+    text-decoration: none;
+    color: rgb(245, 97, 97);
+}
+
+.foot {
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.text {
+    font-size: large;
+}
+
+.text1 {
+    color: rgb(177, 177, 177);
+    font-size: large;
+}
+
+.quote_text {
+    font-size: large;
+    text-align: center;
+}
+
+.quote {
+    color: rgb(177, 177, 177);
+    text-align: center;
+}
+
+[class^=col] {
+    padding-top: .75rem;
+    padding-bottom: .75rem;
+    padding-left: 10mm;
+    padding-right: 10mm;
+    background-color: rgba(0, 0, 0);
+    color: white;
+}
+
+.response{
+    margin: 10mm;
+    box-shadow: 0 0 5mm red;
+    border-radius: 10px;
+    padding-top: 5mm;
+    padding-bottom: 5mm;
+    padding-left: 5mm;
+    padding-right: 5mm;
+}
+
+.carousel-item>img {
+    height: 300px;
+    object-fit: cover;
+}
